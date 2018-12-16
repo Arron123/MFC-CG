@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 基本图形的生成 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1BF.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/基本图形的生成.pdb" /debug /machine:I386 /out:"Debug/基本图形的生成.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\基本图形的生成.obj"
+".\Debug\基本图形的生成Doc.obj"
+".\Debug\基本图形的生成View.obj"
+".\Debug\基本图形的生成.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1BF.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+基本图形的生成.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
